@@ -1,4 +1,4 @@
-package 文件读取查询;
+package com.ahobby.task.file;
 
 import java.io.File;
 import java.io.IOException;

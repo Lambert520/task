@@ -1,4 +1,4 @@
-package 正则表达式的使用;
+package com.ahobby.task.regex;
 
 import java.util.Scanner;
 
